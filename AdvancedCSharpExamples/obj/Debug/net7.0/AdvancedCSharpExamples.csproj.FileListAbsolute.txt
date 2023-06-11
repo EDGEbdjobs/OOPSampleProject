@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\OOPSampleProject\AdvancedCSharpExamples\bin\Debug\net7.0\AdvancedCSharpExamples.exe
+C:\Users\hp\source\repos\OOPSampleProject\AdvancedCSharpExamples\bin\Debug\net7.0\AdvancedCSharpExamples.deps.json
+C:\Users\hp\source\repos\OOPSampleProject\AdvancedCSharpExamples\bin\Debug\net7.0\AdvancedCSharpExamples.runtimeconfig.json
+C:\Users\hp\source\repos\OOPSampleProject\AdvancedCSharpExamples\bin\Debug\net7.0\AdvancedCSharpExamples.dll
+C:\Users\hp\source\repos\OOPSampleProject\AdvancedCSharpExamples\bin\Debug\net7.0\AdvancedCSharpExamples.pdb
+C:\Users\hp\source\repos\OOPSampleProject\AdvancedCSharpExamples\obj\Debug\net7.0\AdvancedCSharpExamples.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\OOPSampleProject\AdvancedCSharpExamples\obj\Debug\net7.0\AdvancedCSharpExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\OOPSampleProject\AdvancedCSharpExamples\obj\Debug\net7.0\AdvancedCSharpExamples.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\OOPSampleProject\AdvancedCSharpExamples\obj\Debug\net7.0\AdvancedCSharpExamples.AssemblyInfo.cs
+C:\Users\hp\source\repos\OOPSampleProject\AdvancedCSharpExamples\obj\Debug\net7.0\AdvancedCSharpExamples.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\OOPSampleProject\AdvancedCSharpExamples\obj\Debug\net7.0\AdvancedCSharpExamples.dll
+C:\Users\hp\source\repos\OOPSampleProject\AdvancedCSharpExamples\obj\Debug\net7.0\refint\AdvancedCSharpExamples.dll
+C:\Users\hp\source\repos\OOPSampleProject\AdvancedCSharpExamples\obj\Debug\net7.0\AdvancedCSharpExamples.pdb
+C:\Users\hp\source\repos\OOPSampleProject\AdvancedCSharpExamples\obj\Debug\net7.0\AdvancedCSharpExamples.genruntimeconfig.cache
+C:\Users\hp\source\repos\OOPSampleProject\AdvancedCSharpExamples\obj\Debug\net7.0\ref\AdvancedCSharpExamples.dll
